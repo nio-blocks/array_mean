@@ -2,6 +2,6 @@
   "nio/ArrayMean": {
     "language": "Python",
     "from_python": "array_mean_block.ArrayMean",
-    "url": "git://github.com/nio-blocks/array_mean"
+    "url": "git://github.com/nio-blocks/array_mean.git"
   }
 }
