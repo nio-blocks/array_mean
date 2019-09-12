@@ -1,11 +1,11 @@
 {
-  "nio/Example": {
-    "description": "A short summary of the block.",
+  "nio/ArrayMean": {
+    "description": "Quickly get the mean of the innermost elements of an array or matrix.",
     "categories": [
-      ""
+      "Signal Modifier"
     ],
-    "tags": "",
-    "from_readme": "docs/example_block.md",
-    "from_python": "example_block.Example"
+    "tags": "average reduce",
+    "from_readme": "docs/array_mean_block.md",
+    "from_python": "array_mean_block.ArrayMean"
   }
 }

@@ -1,7 +1,7 @@
 {
-  "nio/Example": {
+  "nio/ArrayMean": {
     "language": "Python",
-    "from_python": "example_bock.Example",
-    "url": "git://github.com/<organization>/<repo>[@<tag>]"
+    "from_python": "array_mean_block.ArrayMean",
+    "url": "git://github.com/nio-blocks/array_mean"
   }
 }
